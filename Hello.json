@@ -1,4 +1,3 @@
-
 {
   "META": {
     "APP_NAME": "LOADER",
@@ -7,39 +6,6 @@
     "UPDATE_URL": "https://t.me/Ayanokoji135"
   },
   "DATA": [
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "kiritohax v0",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkiritohaxv00000000000000000000.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "MAINTENANCE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Kirito v1",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkiritov1111111111.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "MAINTENANCE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "KIRITO V2",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkiritov2222222222.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "MAINTENANCE"
-    },
     {
       "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "TUNDRA-Z PREMIUM",
