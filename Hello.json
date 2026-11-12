@@ -8,17 +8,6 @@
   "DATA": [
     {
       "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Ares2",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libAres2.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "F4DEDv2",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libF4DEDV2_reauth.so",
@@ -55,17 +44,6 @@
       "NAME": "Kirito",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkiritooooo.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Ares",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libaresssssssssss.so",
       "GAME": "com.garena.game.codm",
       "ARCH": "64bit",
       "KEY": "20001112",
