@@ -19,6 +19,17 @@
     },
     {
       "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Law Premium",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libLawhaxPremium.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "JCHAXXXXXXX",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libjchaxxxxxxxxxx.so",
@@ -286,17 +297,6 @@
       "NAME": "VOID FREEE",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libVoidfreereeeeeeeee.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Law Premium",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libLawhaxPremium.so",
       "GAME": "com.garena.game.codm",
       "ARCH": "64bit",
       "KEY": "20001112",
