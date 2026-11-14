@@ -19,6 +19,17 @@
     },
     {
       "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "JCHAXXXXXXX",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libjchaxxxxxxxxxx.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "Kaelex v13",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libKaelexv1333333333333.so",
@@ -264,17 +275,6 @@
       "NAME": "Sopax",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libsopaxxxxxxxxxxx.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "JCHAXXXXXXX",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libjchaxxxxxxxxxx.so",
       "GAME": "com.garena.game.codm",
       "ARCH": "64bit",
       "KEY": "20001112",
