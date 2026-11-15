@@ -5,5 +5,325 @@
     "VERSION_REASON": "you are using the outdated app please wait for online update.",
     "UPDATE_URL": "https://t.me/Ayanokoji135"
   },
-  "DATA": []
+  "DATA": [
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Shisuiii",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libShisuiiiiiiiii.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Humphrey premium",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libhumphreypremiummmmmmmmmmmmmm.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Law Premium",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libLawhaxPremium.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "JCHAXXXXXXX",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libjchaxxxxxxxxxx.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Kaelex v13",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libKaelexv1333333333333.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Kirito",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkiritooooo.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "TUNDRA-Z PREMIUM",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libtundrapremiummmmmmmmmmmmmm.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "KLYZURIE",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libKLYZURIEEEEEEEEEEEEEE.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "NYXEON",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeon.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Nyxeon eclipse v10",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonnnnnnnnnnnnn.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Nyxeon v7",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonv77777777777777777.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Nyxeon v2",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonv222222222.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "XAVVYY MOD",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libXavDeluxeN__1_.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "kaelex",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkaelex.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "White Crowns",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnightcrownsssssssssssss.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "HOSKE V10",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libhoskeeeeeeeeee.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Tundra",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libTundraaaaaa.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "ZANE",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libZANEE.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Laurencee",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libLAURENCREEEEEEEEEE.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "LaurenceXken",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/liblaurencexken.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "KYC",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkyssssssss.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "RAIHAX",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libRaihax.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Eclipse",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libeclipseeee.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "astryx v3 crack by roxy",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libkaiv22222222222222.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Zyde paid",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libZydeeeepaidddd.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Yato",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libYatoooooooooo.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Sopax",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libsopaxxxxxxxxxxx.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "VOID FREEE",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libVoidfreereeeeeeeee.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "FRANCHESKA",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libFranchesskakakakakka.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    }
+  ]
 }
