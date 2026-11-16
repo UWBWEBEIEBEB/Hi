@@ -8,6 +8,17 @@
   "DATA": [
     {
       "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Yato v1",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794738716386.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libYatooooov1.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "Senku",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794738716386.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libSenkuliittite.so",
@@ -341,17 +352,6 @@
       "NAME": "Cypher free",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794738716386.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libCypherfreeedition.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Yato v1",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794738716386.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libYatooooov1.so",
       "GAME": "com.garena.game.codm",
       "ARCH": "64bit",
       "KEY": "20001112",
